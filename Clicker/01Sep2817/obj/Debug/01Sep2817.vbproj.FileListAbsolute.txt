@@ -1,0 +1,11 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\bin\Debug\01Sep2817.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\bin\Debug\01Sep2817.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\bin\Debug\01Sep2817.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\bin\Debug\01Sep2817.xml
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\01Sep2817.vbprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\_01Sep2817.Form1.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\_01Sep2817.Resources.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\01Sep2817.vbproj.GenerateResource.Cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\01Sep2817.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\01Sep2817.xml
+c:\users\wwstudent\documents\visual studio 2017\Projects\01Sep2817\01Sep2817\obj\Debug\01Sep2817.pdb
